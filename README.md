@@ -12,7 +12,7 @@ Enter the value of index 2: 3
 
 Incoming        frame1  frame2  frame3
 
-1               1       -       -
+1                 1       -       -
 
 2               1       2       -
 
@@ -21,4 +21,5 @@ Incoming        frame1  frame2  frame3
 1               1       2       3
 
 4               4       2       3
+
 Page fault is  4
