@@ -4,20 +4,21 @@ OUT-PUT:
 
 Enter the string length: 5
 
-Enter the value of index 0: 1 
+Enter the value of index 0: 1
 
 Enter the value of index 1: 2
 
 Enter the value of index 2: 3
 
-Enter the value of index 3: 1
+Incoming        frame1  frame2  frame3
 
-Enter the value of index 4: 5
+1               1       -       -
 
-Enter the frame length: 2
+2               1       2       -
 
-Page fault is  5
+3               1       2       3
 
-The frame after all step complete
+1               1       2       3
 
-5 1
+4               4       2       3
+Page fault is  4
